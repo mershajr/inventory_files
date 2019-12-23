@@ -1,2 +1,4 @@
 [DB]
 mariadb-prod
+[DEV]
+student-dev-node-1
