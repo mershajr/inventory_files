@@ -1,4 +1,4 @@
 [DB]
-mariadb-prod
+student-mariadb
 [DEV]
 student-dev-node-1
