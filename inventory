@@ -1,4 +1,4 @@
 [DB]
-student-mariadb
+mariadb
 [DEV]
 student-dev-app-01
